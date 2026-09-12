@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hey, I'm Jackie 👋
+I'm a software developer exploring cybersecurity, automation and systems.
+I enjoy building practical projects, understanding how things work, and learning by experimenting.
 
-<!--
-**JaquelynHunter/JaquelynHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- software development
+- Python projects
+- Web development
+- Cybersecurity labs
+- Automation and tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building, breaking & learning.
